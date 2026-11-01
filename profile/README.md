@@ -13,12 +13,12 @@ Small, focused, **safe** open-source tools for trading developers — the buildi
 
 | Repo | What it is |
 |------|------------|
-| [`trading-risk-calculator`](../../trading-risk-calculator) | Position sizing & risk-per-trade, done right (risk-based lots, R multiples) |
-| [`trading-journal-schema`](../../trading-journal-schema) | A clean, open schema + CSV template for logging trades |
-| [`mt5-python-examples`](../../mt5-python-examples) | Minimal, commented examples using the MetaTrader5 Python package |
-| [`webhook-trading-alerts`](../../webhook-trading-alerts) | Reference for a *safe* alert→order webhook: auth, idempotency, risk gate |
-| [`mql5-utilities`](../../mql5-utilities) | Handy MQL5 snippets: new-bar detector, risk-based lot size, session filter |
-| [`broker-api-integration-examples`](../../broker-api-integration-examples) | The broker-as-a-plugin adapter pattern (placeholders only) |
+| [`trading-risk-calculator`](https://github.com/Indikator-tech/trading-risk-calculator) | Position sizing & risk-per-trade, done right (risk-based lots, R multiples) |
+| [`trading-journal-schema`](https://github.com/Indikator-tech/trading-journal-schema) | A clean, open schema + CSV template for logging trades |
+| [`mt5-python-examples`](https://github.com/Indikator-tech/mt5-python-examples) | Minimal, commented examples using the MetaTrader5 Python package |
+| [`webhook-trading-alerts`](https://github.com/Indikator-tech/webhook-trading-alerts) | Reference for a *safe* alert→order webhook: auth, idempotency, risk gate |
+| [`mql5-utilities`](https://github.com/Indikator-tech/mql5-utilities) | Handy MQL5 snippets: new-bar detector, risk-based lot size, session filter |
+| [`broker-api-integration-examples`](https://github.com/Indikator-tech/broker-api-integration-examples) | The broker-as-a-plugin adapter pattern (placeholders only) |
 
 ### Principles
 - **You own your logic.** We publish tools, not secret sauce.
